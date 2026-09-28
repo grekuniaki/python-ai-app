@@ -1,0 +1,30 @@
+﻿# 環境変数
+.env
+.env.local
+.env.*.local
+
+# 仮想環境
+venv/
+env/
+ENV/
+.venv
+
+# IDEとエディタ
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*~
+.DS_Store
+
+# Pythonキャッシュ
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Streamlit
+.streamlit/
